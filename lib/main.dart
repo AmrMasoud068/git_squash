@@ -8,6 +8,12 @@ void main() {
 //change 1
 //change 2
 
+//change 4
+
+//change 5
+//change 3
+//change 5
+
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
@@ -28,6 +34,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
+
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
